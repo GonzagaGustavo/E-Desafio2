@@ -5,6 +5,7 @@ body {
 div {
     background: url('https://www.jornalbomdia.com.br/tb_noticias/7071/Brasil%20com%20imagem%204k%20at%C3%A9%202020.jpg');
     background-size: cover;
+    background-position: center;
     display: flex;
     justify-content: center;
     align-items: center;
